@@ -1,5 +1,5 @@
-![sitemapindex_icerdigi_tagler](https://user-images.githubusercontent.com/91809799/153272737-c9ae12b9-4818-44f4-8e46-83b81f90a0b4.png)
-![urlset_icerdigi_tagler](https://user-images.githubusercontent.com/91809799/153272746-fc12c5ef-abf3-4564-93b0-1cb67900663b.png)
+
+
 # Site Haritaları nelerdir?
 
 
@@ -16,8 +16,8 @@ sitedeki diğer URL'lere göre ne kadar önemli olduğu) birlikte,
 
 bir siteye ilişkin URL'leri listeleyen bir XML dosyasıdır.
 
-
-
+![sitemapindex_icerdigi_tagler](https://user-images.githubusercontent.com/91809799/153272737-c9ae12b9-4818-44f4-8e46-83b81f90a0b4.png)
+![urlset_icerdigi_tagler](https://user-images.githubusercontent.com/91809799/153272746-fc12c5ef-abf3-4564-93b0-1cb67900663b.png)
 
 Web tarayıcıları sayfaları çoğunlukla site içindeki veya başka sitelerdeki bağlantılardan keşfeder. 
 
